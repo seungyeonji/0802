@@ -39,7 +39,7 @@ public class ArrayDemo1 {
 //		array[1][1] = (int)(Math.random()*10+1);
 //		array[1][2] = (int)(Math.random()*10+1);	//Assignment
 		
-		
+	
 		//2nd way : 생성+할당
 //		int [][] array;		//Declaration
 //		array = new int[3][];
