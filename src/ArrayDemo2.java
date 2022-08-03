@@ -13,7 +13,7 @@ public class ArrayDemo2 {
 		System.out.println("<<1층>>");
 		System.out.println(Arrays.toString(array[1]));
 		
-		
+		 
 		//0층과 1층 맞바꾸끼(스와핑)
 		//정수와 정수를 바꾸려면 정수 변수가 있어야함 = 바뀌는 타입이 같아야함
 		int [] temp = array[0];

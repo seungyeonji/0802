@@ -51,7 +51,7 @@ public class ArrayDemo1 {
 		int [][] array = {
 				{3,4,5,6},
 				{7,8},
-				{9,10,11,12,13,14}
+				{9,10,11,12,13,14} 
 		};
 		
 		for(int i = 0; i<array.length;i++) {		//2차원배열이니까 2중for문
